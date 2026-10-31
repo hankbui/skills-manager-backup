@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "scientific-brainstorming",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "683ced0df12451990b8011be6bc1e551af5e1e08f22b65d3ee353cceaa226a86",
+  "license": "MIT",
+  "tier": "vendored",
+  "phase": "research",
+  "origin": {
+    "repo": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "commit": "1e5eeffbdad3749125afe7ab48a39694e27f181c"
+  }
+}

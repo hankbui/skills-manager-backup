@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7c01fa2b-a29e-4d78-9a4b-178ad281e5c5",
+  "path": "product-launch",
+  "path_key": "product-launch",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

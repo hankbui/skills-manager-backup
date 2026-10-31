@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "09a87bf2-28d5-4540-afef-b146a11bf1ab",
+  "path": "source-command-code-simplify",
+  "path_key": "source-command-code-simplify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

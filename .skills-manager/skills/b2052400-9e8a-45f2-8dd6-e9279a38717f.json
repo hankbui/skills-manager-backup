@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b2052400-9e8a-45f2-8dd6-e9279a38717f",
+  "path": "alloydb-postgres-monitor",
+  "path_key": "alloydb-postgres-monitor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

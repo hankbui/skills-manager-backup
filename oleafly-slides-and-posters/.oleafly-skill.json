@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "oleafly-slides-and-posters",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "3a850b7a22857d2abce9d1c457ae5f1f52ad3518e270d776c2a36e06556823c5",
+  "license": "MIT",
+  "tier": "native",
+  "phase": "communication"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "becfb10b-26c0-4160-9b10-e816d55ad724",
+  "path": "Expo Router Expert",
+  "path_key": "expo router expert",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9a4577d2-a8b0-418e-9842-79bdccd72d2f",
+  "path": "resume-polisher",
+  "path_key": "resume-polisher",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

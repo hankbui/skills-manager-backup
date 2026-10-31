@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bfc80406-2920-422d-9717-6dc6420e4464",
+  "path": "check-compiler-errors",
+  "path_key": "check-compiler-errors",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

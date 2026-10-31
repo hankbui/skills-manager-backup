@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ef2defe4-e59b-467a-a056-fe88e6bdfd38",
+  "path": "cloud-sql-postgres-data",
+  "path_key": "cloud-sql-postgres-data",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

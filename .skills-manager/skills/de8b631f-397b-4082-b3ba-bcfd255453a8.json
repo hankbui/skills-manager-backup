@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "de8b631f-397b-4082-b3ba-bcfd255453a8",
+  "path": "loop-on-ci",
+  "path_key": "loop-on-ci",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

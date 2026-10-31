@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0e860a9b-ec95-4e69-a7a2-ef4ff95118f5",
+  "path": "alloydb-postgres-access-management",
+  "path_key": "alloydb-postgres-access-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

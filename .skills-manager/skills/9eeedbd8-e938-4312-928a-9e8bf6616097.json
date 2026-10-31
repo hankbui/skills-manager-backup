@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9eeedbd8-e938-4312-928a-9e8bf6616097",
+  "path": "cloud-sql-sqlserver-admin",
+  "path_key": "cloud-sql-sqlserver-admin",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

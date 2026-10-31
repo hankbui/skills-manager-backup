@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "edaacf9f-9690-4ab8-9db9-be30c6789c00",
+  "path": "app-store-description",
+  "path_key": "app-store-description",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

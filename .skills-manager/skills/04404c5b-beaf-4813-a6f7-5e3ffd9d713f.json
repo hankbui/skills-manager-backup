@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "04404c5b-beaf-4813-a6f7-5e3ffd9d713f",
+  "path": "Manuscript scaffold",
+  "path_key": "manuscript scaffold",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

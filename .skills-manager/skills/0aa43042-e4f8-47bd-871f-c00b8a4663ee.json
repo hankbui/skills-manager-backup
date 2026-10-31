@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0aa43042-e4f8-47bd-871f-c00b8a4663ee",
+  "path": "invoice-tax-checklist",
+  "path_key": "invoice-tax-checklist",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

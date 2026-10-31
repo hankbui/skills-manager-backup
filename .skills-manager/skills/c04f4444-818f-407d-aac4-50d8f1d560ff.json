@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c04f4444-818f-407d-aac4-50d8f1d560ff",
+  "path": "Import refine",
+  "path_key": "import refine",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5c8eb60a-fa4a-433d-8a91-637d7f6539e7",
+  "path": "scientific-schematics",
+  "path_key": "scientific-schematics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

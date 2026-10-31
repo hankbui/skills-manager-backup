@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2d1f2907-1a87-443a-a4be-3847386e023c",
+  "path": "brand-copy",
+  "path_key": "brand-copy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d4f0a834-1e84-4cb2-8d6d-91ebb8c1c913",
+  "path": "Build and fix",
+  "path_key": "build and fix",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

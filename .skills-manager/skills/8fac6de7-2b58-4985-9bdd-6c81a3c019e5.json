@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8fac6de7-2b58-4985-9bdd-6c81a3c019e5",
+  "path": "cloud-sql-sqlserver-lifecycle",
+  "path_key": "cloud-sql-sqlserver-lifecycle",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

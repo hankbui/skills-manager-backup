@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d5036040-a6e1-41be-8065-f740ffac4b04",
+  "path": "source-command-designer-skills-designer-toolkit-write-rationale",
+  "path_key": "source-command-designer-skills-designer-toolkit-write-rationale",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

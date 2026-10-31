@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "86d26f79-77f5-4353-9439-f55d9f7d0895",
+  "path": "transcribe",
+  "path_key": "transcribe",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

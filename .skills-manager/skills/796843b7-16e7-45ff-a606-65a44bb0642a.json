@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "796843b7-16e7-45ff-a606-65a44bb0642a",
+  "path": "course-slides",
+  "path_key": "course-slides",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

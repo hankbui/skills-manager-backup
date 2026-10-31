@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ac177131-28cf-4fb4-aec8-d623e3448038",
+  "path": "alloydb-omni-performance",
+  "path_key": "alloydb-omni-performance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

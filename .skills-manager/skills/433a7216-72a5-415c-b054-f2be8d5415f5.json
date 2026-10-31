@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "433a7216-72a5-415c-b054-f2be8d5415f5",
+  "path": "agency-ui-designer",
+  "path_key": "agency-ui-designer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

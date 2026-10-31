@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a13712fb-e215-482a-9714-aa7adf9f0baa",
+  "path": "slide-planner",
+  "path_key": "slide-planner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

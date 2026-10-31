@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f07abb31-b013-485a-bbdf-dbfbfa7152c7",
+  "path": "source-command-brainstorm",
+  "path_key": "source-command-brainstorm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

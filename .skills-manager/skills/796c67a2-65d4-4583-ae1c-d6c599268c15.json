@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "796c67a2-65d4-4583-ae1c-d6c599268c15",
+  "path": "review-and-ship",
+  "path_key": "review-and-ship",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

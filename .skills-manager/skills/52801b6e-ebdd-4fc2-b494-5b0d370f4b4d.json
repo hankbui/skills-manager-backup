@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "52801b6e-ebdd-4fc2-b494-5b0d370f4b4d",
+  "path": "source-command-designer-skills-prototyping-testing-test-plan",
+  "path_key": "source-command-designer-skills-prototyping-testing-test-plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

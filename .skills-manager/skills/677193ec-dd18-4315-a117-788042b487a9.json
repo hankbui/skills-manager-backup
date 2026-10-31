@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "677193ec-dd18-4315-a117-788042b487a9",
+  "path": "NativeWind Expert (DEPRECATED)",
+  "path_key": "nativewind expert (deprecated)",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

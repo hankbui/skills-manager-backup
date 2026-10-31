@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2916b68b-65b8-4cc7-8191-a801bcdc87d7",
+  "path": "personal-finance",
+  "path_key": "personal-finance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

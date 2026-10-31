@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cf808561-2f1a-4e94-b158-3e96b01ed4d1",
+  "path": "source-command-write-plan",
+  "path_key": "source-command-write-plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

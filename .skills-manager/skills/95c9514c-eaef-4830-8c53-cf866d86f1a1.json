@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "95c9514c-eaef-4830-8c53-cf866d86f1a1",
+  "path": "academy-guide",
+  "path_key": "academy-guide",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

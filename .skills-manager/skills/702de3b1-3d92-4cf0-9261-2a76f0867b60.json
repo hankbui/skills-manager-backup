@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "702de3b1-3d92-4cf0-9261-2a76f0867b60",
+  "path": "hypothesis-generation",
+  "path_key": "hypothesis-generation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

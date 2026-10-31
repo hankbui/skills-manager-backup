@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3f8adb60-e226-4004-a5fa-4fb350f6e5a3",
+  "path": "cloud-sql-postgres-health",
+  "path_key": "cloud-sql-postgres-health",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

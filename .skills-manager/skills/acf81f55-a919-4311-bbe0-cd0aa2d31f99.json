@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "acf81f55-a919-4311-bbe0-cd0aa2d31f99",
+  "path": "source-command-ship",
+  "path_key": "source-command-ship",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

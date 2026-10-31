@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2ad59200-fb90-45c9-a36b-32202edb608d",
+  "path": "alloydb-postgres-health",
+  "path_key": "alloydb-postgres-health",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

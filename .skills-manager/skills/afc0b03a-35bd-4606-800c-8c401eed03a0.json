@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "afc0b03a-35bd-4606-800c-8c401eed03a0",
+  "path": "source-command-designer-skills-design-research-synthesize",
+  "path_key": "source-command-designer-skills-design-research-synthesize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

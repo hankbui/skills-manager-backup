@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "694784ce-10f8-4d61-bfaf-249e82194314",
+  "path": "oleafly-related-work",
+  "path_key": "oleafly-related-work",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

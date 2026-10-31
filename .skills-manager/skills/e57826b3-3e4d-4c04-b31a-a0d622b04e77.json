@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e57826b3-3e4d-4c04-b31a-a0d622b04e77",
+  "path": "software-architecture",
+  "path_key": "software-architecture",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

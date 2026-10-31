@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5ee48a11-d47b-47c0-9005-6b3e321199b1",
+  "path": "html-diagram",
+  "path_key": "html-diagram",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

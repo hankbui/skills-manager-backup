@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "abfc8024-6975-4fe0-a0f9-fc155b727390",
+  "path": "agency-inclusive-visuals-specialist",
+  "path_key": "agency-inclusive-visuals-specialist",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

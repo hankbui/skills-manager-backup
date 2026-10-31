@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "133e444c-497a-4412-9b6b-2d1185622a18",
+  "path": "cloud-sql-postgres-admin",
+  "path_key": "cloud-sql-postgres-admin",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

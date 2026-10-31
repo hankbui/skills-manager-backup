@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5ca0757e-6ebe-4b59-bb02-a4e47165bb2f",
+  "path": "social-media",
+  "path_key": "social-media",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

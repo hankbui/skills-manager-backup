@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "802d2f48-7f67-47c7-9db3-cb39631dd29f",
+  "path": "core-components",
+  "path_key": "core-components",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

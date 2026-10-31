@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5a4e5684-e22a-48e9-bcb5-e30bc8d96939",
+  "path": "alloydb-omni-access-control",
+  "path_key": "alloydb-omni-access-control",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

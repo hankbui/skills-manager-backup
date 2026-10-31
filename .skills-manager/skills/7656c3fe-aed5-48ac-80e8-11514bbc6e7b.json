@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7656c3fe-aed5-48ac-80e8-11514bbc6e7b",
+  "path": "okr-planner",
+  "path_key": "okr-planner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

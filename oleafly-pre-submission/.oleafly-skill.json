@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "oleafly-pre-submission",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "17f7ed252246f363b1f66750b2c5f3ac9c9ff6a8c9ddc3998c8c787a3669a0e2",
+  "license": "MIT",
+  "tier": "native",
+  "phase": "submission"
+}

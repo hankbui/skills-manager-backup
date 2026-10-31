@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "53cae8d9-e663-4230-b745-df323f64b9e1",
+  "path": "source-command-designer-skills-design-ops-plan-sprint",
+  "path_key": "source-command-designer-skills-design-ops-plan-sprint",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

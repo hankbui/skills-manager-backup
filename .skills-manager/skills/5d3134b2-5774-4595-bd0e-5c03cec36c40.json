@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5d3134b2-5774-4595-bd0e-5c03cec36c40",
+  "path": "source-command-designer-skills-design-systems-audit-system",
+  "path_key": "source-command-designer-skills-design-systems-audit-system",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

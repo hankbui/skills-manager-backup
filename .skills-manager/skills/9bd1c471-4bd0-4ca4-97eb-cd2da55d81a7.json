@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9bd1c471-4bd0-4ca4-97eb-cd2da55d81a7",
+  "path": "source-command-execute-plan",
+  "path_key": "source-command-execute-plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

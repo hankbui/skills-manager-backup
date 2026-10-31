@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b5710e1b-cbb7-43b9-a17a-7a91695f0b9f",
+  "path": "appllama-usage",
+  "path_key": "appllama-usage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

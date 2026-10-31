@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4c4fba42-559d-48f4-80be-7eb787a65bf2",
+  "path": "product-manager-toolkit",
+  "path_key": "product-manager-toolkit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

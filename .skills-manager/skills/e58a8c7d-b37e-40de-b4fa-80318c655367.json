@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e58a8c7d-b37e-40de-b4fa-80318c655367",
+  "path": "performance-review",
+  "path_key": "performance-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

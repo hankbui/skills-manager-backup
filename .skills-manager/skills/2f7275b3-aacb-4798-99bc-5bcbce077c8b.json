@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f7275b3-aacb-4798-99bc-5bcbce077c8b",
+  "path": "labor-contract",
+  "path_key": "labor-contract",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

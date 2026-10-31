@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6fab305e-eef8-4e32-a04e-950279d3988e",
+  "path": "to-questionnaire",
+  "path_key": "to-questionnaire",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2add95d8-7ef4-4ca9-a553-c9823d19c4ec",
+  "path": "business-plan",
+  "path_key": "business-plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

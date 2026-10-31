@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "scientific-visualization",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "de0b1ec1e6c281049b75928a989469bad12a44b2a3ae14ab7577a6a9c3e2ac51",
+  "license": "MIT",
+  "tier": "vendored",
+  "phase": "figures",
+  "origin": {
+    "repo": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "commit": "1e5eeffbdad3749125afe7ab48a39694e27f181c"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4e3c2ace-c5f5-4405-bda6-268806d27a85",
+  "path": "State Management Expert",
+  "path_key": "state management expert",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

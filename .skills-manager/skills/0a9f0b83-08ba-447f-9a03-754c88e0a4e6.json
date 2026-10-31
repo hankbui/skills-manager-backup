@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0a9f0b83-08ba-447f-9a03-754c88e0a4e6",
+  "path": "oleafly-slides-and-posters",
+  "path_key": "oleafly-slides-and-posters",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

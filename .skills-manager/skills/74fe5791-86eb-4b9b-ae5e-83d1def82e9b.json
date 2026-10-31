@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "74fe5791-86eb-4b9b-ae5e-83d1def82e9b",
+  "path": "gcp-dataflow",
+  "path_key": "gcp-dataflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

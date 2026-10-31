@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "335eae2a-49f4-406b-8b17-4080efaf90c0",
+  "path": "cloud-sql-postgres-lifecycle",
+  "path_key": "cloud-sql-postgres-lifecycle",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

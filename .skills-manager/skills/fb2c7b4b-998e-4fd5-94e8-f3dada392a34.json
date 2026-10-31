@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fb2c7b4b-998e-4fd5-94e8-f3dada392a34",
+  "path": "source-command-build",
+  "path_key": "source-command-build",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

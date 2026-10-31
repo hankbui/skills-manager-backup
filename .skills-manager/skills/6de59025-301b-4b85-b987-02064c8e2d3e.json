@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6de59025-301b-4b85-b987-02064c8e2d3e",
+  "path": "study-plan",
+  "path_key": "study-plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

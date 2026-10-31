@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b7f71e61-eeac-44b8-b2e7-d5f206efea59",
+  "path": "skill-repair",
+  "path_key": "skill-repair",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

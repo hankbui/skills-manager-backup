@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "992fe96c-4d1e-424d-80d1-21219055e637",
+  "path": "terms-of-service",
+  "path_key": "terms-of-service",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

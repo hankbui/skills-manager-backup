@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "324b0f70-9001-422f-ae2c-5189d3bb3171",
+  "path": "cloud-sql-mysql-lifecycle",
+  "path_key": "cloud-sql-mysql-lifecycle",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

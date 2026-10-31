@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "137bb202-3090-4777-b064-8fbf5b698e96",
+  "path": "genoffice",
+  "path_key": "genoffice",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

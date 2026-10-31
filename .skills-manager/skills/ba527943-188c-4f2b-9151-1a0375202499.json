@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ba527943-188c-4f2b-9151-1a0375202499",
+  "path": "oleafly-literature-sweep",
+  "path_key": "oleafly-literature-sweep",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0356a748-44d9-4272-afeb-17b99a963e22",
+  "path": "asc-privacy-nutrition-labels",
+  "path_key": "asc-privacy-nutrition-labels",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

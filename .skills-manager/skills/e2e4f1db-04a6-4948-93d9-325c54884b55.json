@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e2e4f1db-04a6-4948-93d9-325c54884b55",
+  "path": "scholar-evaluation",
+  "path_key": "scholar-evaluation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

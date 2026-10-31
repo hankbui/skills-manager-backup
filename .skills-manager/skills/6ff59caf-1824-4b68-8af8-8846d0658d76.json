@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6ff59caf-1824-4b68-8af8-8846d0658d76",
+  "path": "source-command-designer-skills-ui-design-type-system",
+  "path_key": "source-command-designer-skills-ui-design-type-system",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

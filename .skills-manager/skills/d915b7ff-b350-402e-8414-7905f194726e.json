@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d915b7ff-b350-402e-8414-7905f194726e",
+  "path": "expense-report",
+  "path_key": "expense-report",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "db095792-a686-4204-8049-096001871e1d",
+  "path": "asc-iap-attach",
+  "path_key": "asc-iap-attach",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

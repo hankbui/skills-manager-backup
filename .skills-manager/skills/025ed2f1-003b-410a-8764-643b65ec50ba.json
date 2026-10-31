@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "025ed2f1-003b-410a-8764-643b65ec50ba",
+  "path": "agency-ui-finish-gate-reviewer",
+  "path_key": "agency-ui-finish-gate-reviewer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

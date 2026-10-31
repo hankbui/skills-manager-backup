@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bbc592cd-f534-4991-84c0-cf8b09a261a3",
+  "path": "source-command-designer-skills-ui-design-design-screen",
+  "path_key": "source-command-designer-skills-ui-design-design-screen",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

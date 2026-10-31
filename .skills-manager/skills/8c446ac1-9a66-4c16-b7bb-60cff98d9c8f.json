@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8c446ac1-9a66-4c16-b7bb-60cff98d9c8f",
+  "path": "onboarding-plan",
+  "path_key": "onboarding-plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

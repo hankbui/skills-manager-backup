@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "883a7a93-b6ee-493e-98d0-824638661009",
+  "path": "computer-use",
+  "path_key": "computer-use",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

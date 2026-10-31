@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "122891a1-a744-4d81-b793-f11cdce77349",
+  "path": "wait-what",
+  "path_key": "wait-what",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

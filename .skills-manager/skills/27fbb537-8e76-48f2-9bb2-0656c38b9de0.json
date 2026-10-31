@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "27fbb537-8e76-48f2-9bb2-0656c38b9de0",
+  "path": "source-command-designer-skills-design-research-interview",
+  "path_key": "source-command-designer-skills-design-research-interview",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

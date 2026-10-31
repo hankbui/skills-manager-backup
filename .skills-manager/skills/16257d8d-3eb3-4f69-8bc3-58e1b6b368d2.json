@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "16257d8d-3eb3-4f69-8bc3-58e1b6b368d2",
+  "path": "agency-brand-guardian",
+  "path_key": "agency-brand-guardian",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

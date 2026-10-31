@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "547c5c1c-b631-47fa-a215-ee13598c3b2b",
+  "path": "what-did-i-get-done",
+  "path_key": "what-did-i-get-done",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

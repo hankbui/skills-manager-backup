@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5902504e-48c1-461d-ae93-0977af091e2a",
+  "path": "agency-whimsy-injector",
+  "path_key": "agency-whimsy-injector",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

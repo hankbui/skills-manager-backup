@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7ab40bd9-67d8-43dc-9a7e-c0f379e01897",
+  "path": "alloydb-omni-health",
+  "path_key": "alloydb-omni-health",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

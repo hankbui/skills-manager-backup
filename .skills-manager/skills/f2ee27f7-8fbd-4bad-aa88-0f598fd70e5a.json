@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f2ee27f7-8fbd-4bad-aa88-0f598fd70e5a",
+  "path": "citation-management",
+  "path_key": "citation-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

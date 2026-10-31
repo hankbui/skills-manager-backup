@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "674fe16f-45e3-40e5-aa88-349a596b8b02",
+  "path": "lesson-plan",
+  "path_key": "lesson-plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "venue-templates",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "b95ff6ead1dccc34337af43a934d77827f59fb444c325c224d0d82accb74a84a",
+  "license": "MIT license",
+  "tier": "vendored",
+  "phase": "authoring",
+  "origin": {
+    "repo": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "commit": "1e5eeffbdad3749125afe7ab48a39694e27f181c"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6802147f-5f5d-400e-8a76-627c21e0a553",
+  "path": "cloud-sql-sqlserver-monitor",
+  "path_key": "cloud-sql-sqlserver-monitor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

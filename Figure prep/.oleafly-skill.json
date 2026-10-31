@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "oleafly-figure-prep",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "191dfee567847efe69f228805a0d36b3311aa96e18a3481d29bbaa80afad48b2",
+  "license": "MIT",
+  "tier": "native",
+  "phase": "figures"
+}

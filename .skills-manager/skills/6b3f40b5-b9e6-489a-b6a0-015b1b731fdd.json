@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6b3f40b5-b9e6-489a-b6a0-015b1b731fdd",
+  "path": "quiz-maker",
+  "path_key": "quiz-maker",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

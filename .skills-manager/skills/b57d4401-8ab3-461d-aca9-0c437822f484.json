@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b57d4401-8ab3-461d-aca9-0c437822f484",
+  "path": "gcp-pipeline-orchestration",
+  "path_key": "gcp-pipeline-orchestration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6dd2c622-478a-429e-a79c-71aac4e14c24",
+  "path": "interview-coach",
+  "path_key": "interview-coach",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

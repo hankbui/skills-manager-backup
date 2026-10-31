@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "66c2841b-0e39-4659-bf19-148fadcc3034",
+  "path": "pr-review-canvas",
+  "path_key": "pr-review-canvas",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

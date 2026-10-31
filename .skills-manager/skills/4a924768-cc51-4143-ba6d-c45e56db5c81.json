@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4a924768-cc51-4143-ba6d-c45e56db5c81",
+  "path": "source-command-designer-skills-ux-strategy-strategize",
+  "path_key": "source-command-designer-skills-ux-strategy-strategize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

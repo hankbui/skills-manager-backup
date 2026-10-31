@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f8eaa774-cadd-414f-bd3e-d2f69234941c",
+  "path": "agency-ux-researcher",
+  "path_key": "agency-ux-researcher",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

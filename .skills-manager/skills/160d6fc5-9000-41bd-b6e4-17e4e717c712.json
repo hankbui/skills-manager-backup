@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "160d6fc5-9000-41bd-b6e4-17e4e717c712",
+  "path": "Reusable template",
+  "path_key": "reusable template",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

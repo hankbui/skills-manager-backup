@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1eb7f798-d6bb-41fa-92f5-26d448ae18c8",
+  "path": "source-command-designer-skills-design-ops-setup-workflow",
+  "path_key": "source-command-designer-skills-design-ops-setup-workflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

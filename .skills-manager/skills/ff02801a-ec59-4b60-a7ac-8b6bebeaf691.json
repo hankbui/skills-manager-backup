@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ff02801a-ec59-4b60-a7ac-8b6bebeaf691",
+  "path": "alloydb-postgres-data",
+  "path_key": "alloydb-postgres-data",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

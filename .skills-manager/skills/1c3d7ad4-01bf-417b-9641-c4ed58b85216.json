@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1c3d7ad4-01bf-417b-9641-c4ed58b85216",
+  "path": "alloydb-postgres-optimize",
+  "path_key": "alloydb-postgres-optimize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

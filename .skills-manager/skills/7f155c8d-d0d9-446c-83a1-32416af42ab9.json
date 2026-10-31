@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7f155c8d-d0d9-446c-83a1-32416af42ab9",
+  "path": "run-smoke-tests",
+  "path_key": "run-smoke-tests",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

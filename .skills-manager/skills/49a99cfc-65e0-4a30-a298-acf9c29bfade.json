@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "49a99cfc-65e0-4a30-a298-acf9c29bfade",
+  "path": "OpenResearch (orx)",
+  "path_key": "openresearch (orx)",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

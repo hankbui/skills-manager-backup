@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d6df61a4-4baf-442e-9c15-214dab0c8993",
+  "path": "alloydb-omni-monitor",
+  "path_key": "alloydb-omni-monitor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

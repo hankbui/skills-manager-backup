@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2b7c2a7f-ac40-4fdf-9bdc-ae841b2db9a5",
+  "path": "cloud-sql-sqlserver-data",
+  "path_key": "cloud-sql-sqlserver-data",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

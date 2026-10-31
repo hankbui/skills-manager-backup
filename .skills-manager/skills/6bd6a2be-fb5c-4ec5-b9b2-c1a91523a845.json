@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6bd6a2be-fb5c-4ec5-b9b2-c1a91523a845",
+  "path": "source-command-designer-skills-prototyping-testing-evaluate",
+  "path_key": "source-command-designer-skills-prototyping-testing-evaluate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

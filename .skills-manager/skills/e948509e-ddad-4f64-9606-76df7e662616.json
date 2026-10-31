@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e948509e-ddad-4f64-9606-76df7e662616",
+  "path": "cloud-sql-mysql-data",
+  "path_key": "cloud-sql-mysql-data",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0eccfc52-bf0b-4e5e-9242-75765c21aa83",
+  "path": "source-command-designer-skills-interaction-design-error-flow",
+  "path_key": "source-command-designer-skills-interaction-design-error-flow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

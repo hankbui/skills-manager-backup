@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4589daf1-b5f1-4625-8bf8-fcc29204209c",
+  "path": "cloud-sql-postgres-vectorassist",
+  "path_key": "cloud-sql-postgres-vectorassist",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7410c9bd-fb33-4a11-910d-0c264d7eadec",
+  "path": "PDF to LaTeX",
+  "path_key": "pdf to latex",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

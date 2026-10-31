@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "881b0b2a-2a3e-46af-9b04-cd54ddf7270e",
+  "path": "source-command-designer-skills-interaction-design-map-states",
+  "path_key": "source-command-designer-skills-interaction-design-map-states",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2b8c7087-9a77-455b-b9ec-99ec24b6a6e3",
+  "path": "alloydb-omni-kubernetes",
+  "path_key": "alloydb-omni-kubernetes",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

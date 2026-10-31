@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "96eb4a79-ae72-4895-ad54-b4fafc8afa8b",
+  "path": "oleafly-pre-submission",
+  "path_key": "oleafly-pre-submission",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

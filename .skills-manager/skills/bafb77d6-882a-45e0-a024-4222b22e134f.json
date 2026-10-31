@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bafb77d6-882a-45e0-a024-4222b22e134f",
+  "path": "dataform-bigquery",
+  "path_key": "dataform-bigquery",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

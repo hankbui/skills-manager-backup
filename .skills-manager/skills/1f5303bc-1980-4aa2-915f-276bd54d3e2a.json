@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1f5303bc-1980-4aa2-915f-276bd54d3e2a",
+  "path": "React Native UI Patterns",
+  "path_key": "react native ui patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

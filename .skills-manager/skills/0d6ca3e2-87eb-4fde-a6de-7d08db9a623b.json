@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0d6ca3e2-87eb-4fde-a6de-7d08db9a623b",
+  "path": "source-command-designer-skills-ui-design-color-palette",
+  "path_key": "source-command-designer-skills-ui-design-color-palette",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

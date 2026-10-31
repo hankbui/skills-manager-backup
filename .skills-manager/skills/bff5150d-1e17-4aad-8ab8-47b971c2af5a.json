@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bff5150d-1e17-4aad-8ab8-47b971c2af5a",
+  "path": "Figure prep",
+  "path_key": "figure prep",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e53424c8-f8cf-4779-a7cc-fa56709aae6e",
+  "path": "liquid-glass-rn",
+  "path_key": "liquid-glass-rn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

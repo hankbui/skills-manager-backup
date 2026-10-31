@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "20688181-53a1-4eea-be6b-e68f655b693f",
+  "path": "Swift iOS Expert",
+  "path_key": "swift ios expert",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

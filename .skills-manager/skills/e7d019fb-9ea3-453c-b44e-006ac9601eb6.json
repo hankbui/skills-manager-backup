@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e7d019fb-9ea3-453c-b44e-006ac9601eb6",
+  "path": "appllama-app-design-skill",
+  "path_key": "appllama-app-design-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

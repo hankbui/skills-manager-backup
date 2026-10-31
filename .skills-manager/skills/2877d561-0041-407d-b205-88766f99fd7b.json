@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2877d561-0041-407d-b205-88766f99fd7b",
+  "path": "firestore-data",
+  "path_key": "firestore-data",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

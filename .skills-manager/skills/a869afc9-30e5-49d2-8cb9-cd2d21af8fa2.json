@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a869afc9-30e5-49d2-8cb9-cd2d21af8fa2",
+  "path": "cloud-sql-postgres-replication",
+  "path_key": "cloud-sql-postgres-replication",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

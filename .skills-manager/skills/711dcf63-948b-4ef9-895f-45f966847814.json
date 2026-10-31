@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "711dcf63-948b-4ef9-895f-45f966847814",
+  "path": "cloud-sql-postgres-monitor",
+  "path_key": "cloud-sql-postgres-monitor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

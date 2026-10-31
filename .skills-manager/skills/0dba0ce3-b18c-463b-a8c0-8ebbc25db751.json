@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0dba0ce3-b18c-463b-a8c0-8ebbc25db751",
+  "path": "alloydb-omni-optimize",
+  "path_key": "alloydb-omni-optimize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

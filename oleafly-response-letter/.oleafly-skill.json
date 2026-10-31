@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "oleafly-response-letter",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "68ad13b777cf1e1afbf269acf5de93b4b30378537488093b1e4d95623ac81db6",
+  "license": "MIT",
+  "tier": "native",
+  "phase": "review"
+}

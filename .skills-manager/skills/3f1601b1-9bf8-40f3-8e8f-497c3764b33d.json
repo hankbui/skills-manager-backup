@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3f1601b1-9bf8-40f3-8e8f-497c3764b33d",
+  "path": "agency-visual-storyteller",
+  "path_key": "agency-visual-storyteller",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

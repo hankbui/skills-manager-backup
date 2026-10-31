@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "245f3b7a-822c-440f-b9fb-ede1de81d7d5",
+  "path": "data-cleaning",
+  "path_key": "data-cleaning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

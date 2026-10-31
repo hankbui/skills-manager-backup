@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2d1490e4-da94-4493-b7b6-7375e7bbba48",
+  "path": "minimax-multimodal-toolkit",
+  "path_key": "minimax-multimodal-toolkit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

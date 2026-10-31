@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "oleafly-latex-build",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "5d265bfdc7819e761e32e22cfb23bb0523ac298701fbb760d18addfcdbd3cf2c",
+  "license": "MIT",
+  "tier": "native",
+  "phase": "tooling"
+}

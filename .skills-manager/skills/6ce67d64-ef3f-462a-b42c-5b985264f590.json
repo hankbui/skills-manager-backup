@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6ce67d64-ef3f-462a-b42c-5b985264f590",
+  "path": "source-command-review",
+  "path_key": "source-command-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

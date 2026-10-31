@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b79d3c7e-17d6-4321-a766-1d825cdc6b89",
+  "path": "cloud-sql-mysql-monitor",
+  "path_key": "cloud-sql-mysql-monitor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

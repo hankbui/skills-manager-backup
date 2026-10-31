@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "49110173-3ada-4318-8df8-4bbf7d2837a1",
+  "path": "source-command-designer-skills-design-systems-tokenize",
+  "path_key": "source-command-designer-skills-design-systems-tokenize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

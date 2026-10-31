@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dd5fc910-8328-4f9c-9dd3-53ef39e16f09",
+  "path": "pptx",
+  "path_key": "pptx",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

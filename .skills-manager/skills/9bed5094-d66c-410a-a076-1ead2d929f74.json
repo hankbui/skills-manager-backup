@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9bed5094-d66c-410a-a076-1ead2d929f74",
+  "path": "peer-review",
+  "path_key": "peer-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

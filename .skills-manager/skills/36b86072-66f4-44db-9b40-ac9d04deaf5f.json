@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "36b86072-66f4-44db-9b40-ac9d04deaf5f",
+  "path": "source-command-designer-skills-ui-design-responsive-audit",
+  "path_key": "source-command-designer-skills-ui-design-responsive-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

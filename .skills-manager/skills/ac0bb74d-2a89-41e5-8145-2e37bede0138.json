@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ac0bb74d-2a89-41e5-8145-2e37bede0138",
+  "path": "gh-address-comments",
+  "path_key": "gh-address-comments",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

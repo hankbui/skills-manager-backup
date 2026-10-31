@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4da49f38-8b3e-40f7-9a82-4793fda79d41",
+  "path": "testing-patterns",
+  "path_key": "testing-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

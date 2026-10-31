@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "579ac5ca-367f-4ddb-be92-b9b199f9bcd2",
+  "path": "survey-analyst",
+  "path_key": "survey-analyst",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

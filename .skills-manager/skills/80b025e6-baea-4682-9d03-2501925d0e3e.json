@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "80b025e6-baea-4682-9d03-2501925d0e3e",
+  "path": "sales-forecast",
+  "path_key": "sales-forecast",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

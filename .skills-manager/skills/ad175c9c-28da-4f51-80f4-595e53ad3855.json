@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ad175c9c-28da-4f51-80f4-595e53ad3855",
+  "path": "oleafly-research-loop",
+  "path_key": "oleafly-research-loop",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b1647249-14c4-4c66-9304-a6cfb0c984d8",
+  "path": "app-store-optimization-2",
+  "path_key": "app-store-optimization-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

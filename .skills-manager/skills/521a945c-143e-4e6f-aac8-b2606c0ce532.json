@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "521a945c-143e-4e6f-aac8-b2606c0ce532",
+  "path": "asc-app-create-ui",
+  "path_key": "asc-app-create-ui",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

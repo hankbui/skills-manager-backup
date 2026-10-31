@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dedbf7b2-7b90-485b-80ad-46d44073da6b",
+  "path": "agency-persona-walkthrough-specialist",
+  "path_key": "agency-persona-walkthrough-specialist",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

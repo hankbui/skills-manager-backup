@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9ded444e-8afc-4204-9760-b0c19db9db3d",
+  "path": "control-ui",
+  "path_key": "control-ui",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

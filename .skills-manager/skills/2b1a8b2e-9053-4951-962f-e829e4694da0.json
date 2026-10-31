@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2b1a8b2e-9053-4951-962f-e829e4694da0",
+  "path": "nda-drafter",
+  "path_key": "nda-drafter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

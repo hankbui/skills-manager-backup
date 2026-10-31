@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d42513a4-dc52-4057-b94a-82f1491e8513",
+  "path": "source-command-designer-skills-designer-toolkit-write-case-study",
+  "path_key": "source-command-designer-skills-designer-toolkit-write-case-study",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

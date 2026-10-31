@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "08ec24bf-56c4-44dd-a956-9641627b22e5",
+  "path": "source-command-designer-skills-design-ops-handoff",
+  "path_key": "source-command-designer-skills-design-ops-handoff",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "498a7c88-cfc9-432c-95ae-9208de5fa87b",
+  "path": "weekly-review",
+  "path_key": "weekly-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

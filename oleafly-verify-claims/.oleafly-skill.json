@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "oleafly-verify-claims",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "5ca059b9cbd301536101e2dae798983c14fa76afc770b4cf4c371592ad5b3e48",
+  "license": "MIT",
+  "tier": "native",
+  "phase": "review"
+}

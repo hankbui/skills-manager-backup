@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "224dc11c-360f-4db6-9872-5fcd483f3fd6",
+  "path": "cloud-sql-postgres-view-config",
+  "path_key": "cloud-sql-postgres-view-config",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

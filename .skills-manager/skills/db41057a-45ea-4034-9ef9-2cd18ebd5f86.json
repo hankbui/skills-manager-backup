@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "db41057a-45ea-4034-9ef9-2cd18ebd5f86",
+  "path": "new-branch-and-pr",
+  "path_key": "new-branch-and-pr",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

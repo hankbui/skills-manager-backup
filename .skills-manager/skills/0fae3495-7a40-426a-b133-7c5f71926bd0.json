@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0fae3495-7a40-426a-b133-7c5f71926bd0",
+  "path": "spanner-data",
+  "path_key": "spanner-data",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "hypothesis-generation",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "50dc3e59709e2e2d915d20da335da913b3254e08b0596fefd67155ec2696eb96",
+  "license": "MIT",
+  "tier": "vendored",
+  "phase": "research",
+  "origin": {
+    "repo": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "commit": "1e5eeffbdad3749125afe7ab48a39694e27f181c"
+  }
+}

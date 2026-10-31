@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8d9d02e7-6c82-4428-8cde-204b6e36f5fb",
+  "path": "job-description",
+  "path_key": "job-description",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

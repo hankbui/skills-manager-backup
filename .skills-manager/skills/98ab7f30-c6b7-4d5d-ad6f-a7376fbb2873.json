@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "98ab7f30-c6b7-4d5d-ad6f-a7376fbb2873",
+  "path": "financial-statement-analysis",
+  "path_key": "financial-statement-analysis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

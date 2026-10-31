@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "250dd25e-b95b-42ec-9f4e-af1425e2350d",
+  "path": "make-pr-easy-to-review",
+  "path_key": "make-pr-easy-to-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

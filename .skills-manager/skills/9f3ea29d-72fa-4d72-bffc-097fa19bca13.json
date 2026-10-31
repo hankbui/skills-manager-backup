@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9f3ea29d-72fa-4d72-bffc-097fa19bca13",
+  "path": "oleafly-review-manuscript",
+  "path_key": "oleafly-review-manuscript",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

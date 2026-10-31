@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "be606ab6-d2dd-4de5-bc2a-efb973bda970",
+  "path": "source-command-designer-skills-design-systems-create-component",
+  "path_key": "source-command-designer-skills-design-systems-create-component",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

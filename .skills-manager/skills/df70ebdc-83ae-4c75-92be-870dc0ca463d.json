@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "df70ebdc-83ae-4c75-92be-870dc0ca463d",
+  "path": "executive-deck",
+  "path_key": "executive-deck",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

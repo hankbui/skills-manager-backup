@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "796512b2-1f1a-48c3-8a38-077842fc4a78",
+  "path": "business-report",
+  "path_key": "business-report",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

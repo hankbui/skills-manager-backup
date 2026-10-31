@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ad78025d-c13e-49df-8263-9442173b597d",
+  "path": "fix-ci",
+  "path_key": "fix-ci",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

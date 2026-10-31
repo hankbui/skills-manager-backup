@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "36c51588-eb8a-46b2-a02f-15473387bd21",
+  "path": "swot-strategy",
+  "path_key": "swot-strategy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

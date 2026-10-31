@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ae5a594e-6caf-4b42-af31-46568146572a",
+  "path": "contract-drafter",
+  "path_key": "contract-drafter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

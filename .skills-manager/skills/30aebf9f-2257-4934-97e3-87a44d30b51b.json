@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "30aebf9f-2257-4934-97e3-87a44d30b51b",
+  "path": "seo-content",
+  "path_key": "seo-content",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

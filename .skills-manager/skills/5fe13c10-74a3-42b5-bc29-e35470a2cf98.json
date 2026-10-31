@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5fe13c10-74a3-42b5-bc29-e35470a2cf98",
+  "path": "source-command-designer-skills-design-research-discover",
+  "path_key": "source-command-designer-skills-design-research-discover",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

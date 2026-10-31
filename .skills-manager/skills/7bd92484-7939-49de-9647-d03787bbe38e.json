@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7bd92484-7939-49de-9647-d03787bbe38e",
+  "path": "meeting-minutes",
+  "path_key": "meeting-minutes",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

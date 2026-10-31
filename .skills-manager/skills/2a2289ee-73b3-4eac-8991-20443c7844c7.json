@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2a2289ee-73b3-4eac-8991-20443c7844c7",
+  "path": "kpi-dashboard",
+  "path_key": "kpi-dashboard",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1c77b808-ebd7-4598-8cc2-a558a11fd54d",
+  "path": "agency-image-prompt-engineer",
+  "path_key": "agency-image-prompt-engineer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

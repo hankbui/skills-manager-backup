@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b901e4c-4882-4fb3-96fb-aa0ab87c16db",
+  "path": "campaign-planner",
+  "path_key": "campaign-planner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

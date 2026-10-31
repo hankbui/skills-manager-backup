@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "218adb09-dca8-4cad-adbd-b100ba079219",
+  "path": "alloydb-omni-container",
+  "path_key": "alloydb-omni-container",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

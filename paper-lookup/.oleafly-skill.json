@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "paper-lookup",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "f2e75b030e72755419c4181d7b7f50a6d6cf0f63bfd937c726a8b3a284f6ec1b",
+  "license": "MIT",
+  "tier": "vendored",
+  "phase": "research",
+  "origin": {
+    "repo": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "commit": "1e5eeffbdad3749125afe7ab48a39694e27f181c"
+  }
+}

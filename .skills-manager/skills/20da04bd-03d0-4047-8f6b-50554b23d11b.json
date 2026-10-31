@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "20da04bd-03d0-4047-8f6b-50554b23d11b",
+  "path": "agency-ux-architect",
+  "path_key": "agency-ux-architect",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

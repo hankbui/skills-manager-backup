@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "openresearch",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "7beaf6bc091080bc08b60d3b8a7fd860d2df022de9bc743121d0ad08ab8e55c6",
+  "license": "MIT",
+  "tier": "native",
+  "phase": "research"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "76b0cb7d-6196-4e2c-84c5-64e609401eb4",
+  "path": "control-cli",
+  "path_key": "control-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

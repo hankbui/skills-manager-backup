@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "02f66bfc-1550-4e14-9213-798397444ae7",
+  "path": "alloydb-postgres-replication",
+  "path_key": "alloydb-postgres-replication",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

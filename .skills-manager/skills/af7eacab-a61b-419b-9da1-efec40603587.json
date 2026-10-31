@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af7eacab-a61b-419b-9da1-efec40603587",
+  "path": "code-review",
+  "path_key": "code-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

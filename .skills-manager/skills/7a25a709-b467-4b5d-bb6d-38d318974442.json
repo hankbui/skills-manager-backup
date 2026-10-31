@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7a25a709-b467-4b5d-bb6d-38d318974442",
+  "path": "workflow-from-chats",
+  "path_key": "workflow-from-chats",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

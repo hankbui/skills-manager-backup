@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "657b357c-056c-4875-a20f-0d638bc197e8",
+  "path": "speech",
+  "path_key": "speech",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

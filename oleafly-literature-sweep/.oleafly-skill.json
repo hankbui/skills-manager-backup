@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "oleafly-literature-sweep",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "1e445facde6e9715bfa81376e1a88ae99855296d14c9495a26437a22ff83dd96",
+  "license": "MIT",
+  "tier": "native",
+  "phase": "research"
+}

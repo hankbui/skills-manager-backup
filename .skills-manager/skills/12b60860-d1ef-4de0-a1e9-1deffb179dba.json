@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "12b60860-d1ef-4de0-a1e9-1deffb179dba",
+  "path": "sop-writer",
+  "path_key": "sop-writer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
