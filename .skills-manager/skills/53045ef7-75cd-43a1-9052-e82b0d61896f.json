@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "53045ef7-75cd-43a1-9052-e82b0d61896f",
+  "path": "variant",
+  "path_key": "variant",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/jakubkrehel/skills",
+    "subpath": "skills/variant",
+    "branch": null
+  }
+}

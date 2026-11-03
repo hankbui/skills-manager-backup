@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "31cb36b1-df34-476b-b33e-8a61a338f646",
+  "path": "better-layout",
+  "path_key": "better-layout",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/jakubkrehel/skills",
+    "subpath": "skills/better-layout",
+    "branch": null
+  }
+}

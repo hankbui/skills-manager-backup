@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3e3a6efc-f21b-4067-88cd-f6eeed3c2c70",
+  "path": "build-design",
+  "path_key": "build-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/jakubkrehel/skills",
+    "subpath": "skills/build-design",
+    "branch": null
+  }
+}

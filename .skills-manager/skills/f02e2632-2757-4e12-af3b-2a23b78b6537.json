@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f02e2632-2757-4e12-af3b-2a23b78b6537",
+  "path": "better-ui",
+  "path_key": "better-ui",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/jakubkrehel/skills",
+    "subpath": "skills/better-ui",
+    "branch": null
+  }
+}

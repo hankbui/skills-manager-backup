@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5ff5e691-67b3-4290-b26f-2e4cb27953b9",
+  "path": "state-machine",
+  "path_key": "state-machine",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/jakubkrehel/skills",
+    "subpath": "skills/state-machine",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "38a757ae-7973-4f13-b99c-df9af137c097",
+  "path": "interface-review",
+  "path_key": "interface-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/jakubkrehel/skills",
+    "subpath": "skills/interface-review",
+    "branch": null
+  }
+}

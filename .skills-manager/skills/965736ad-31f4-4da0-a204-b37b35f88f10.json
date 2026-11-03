@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "965736ad-31f4-4da0-a204-b37b35f88f10",
+  "path": "better-accessibility",
+  "path_key": "better-accessibility",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/jakubkrehel/skills",
+    "subpath": "skills/better-accessibility",
+    "branch": null
+  }
+}

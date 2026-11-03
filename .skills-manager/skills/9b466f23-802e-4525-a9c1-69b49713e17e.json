@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9b466f23-802e-4525-a9c1-69b49713e17e",
+  "path": "teardown",
+  "path_key": "teardown",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/jakubkrehel/skills",
+    "subpath": "skills/teardown",
+    "branch": null
+  }
+}

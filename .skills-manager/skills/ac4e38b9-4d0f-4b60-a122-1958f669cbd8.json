@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ac4e38b9-4d0f-4b60-a122-1958f669cbd8",
+  "path": "better-colors",
+  "path_key": "better-colors",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/jakubkrehel/skills",
+    "subpath": "skills/better-colors",
+    "branch": null
+  }
+}

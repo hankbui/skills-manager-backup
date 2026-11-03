@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7ac44f73-ebf8-4ea3-b683-ce06e7ac3a8e",
+  "path": "better-interface",
+  "path_key": "better-interface",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/jakubkrehel/skills",
+    "subpath": "skills/better-interface",
+    "branch": null
+  }
+}

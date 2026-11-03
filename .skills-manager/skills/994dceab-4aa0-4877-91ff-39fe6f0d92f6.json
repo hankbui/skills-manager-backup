@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "994dceab-4aa0-4877-91ff-39fe6f0d92f6",
+  "path": "explain-interface",
+  "path_key": "explain-interface",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/jakubkrehel/skills",
+    "subpath": "skills/explain-interface",
+    "branch": null
+  }
+}

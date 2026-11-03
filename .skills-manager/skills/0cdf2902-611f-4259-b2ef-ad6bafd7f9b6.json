@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0cdf2902-611f-4259-b2ef-ad6bafd7f9b6",
+  "path": "better-typography",
+  "path_key": "better-typography",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/jakubkrehel/skills",
+    "subpath": "skills/better-typography",
+    "branch": null
+  }
+}

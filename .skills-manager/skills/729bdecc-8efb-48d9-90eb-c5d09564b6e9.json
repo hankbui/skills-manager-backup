@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "729bdecc-8efb-48d9-90eb-c5d09564b6e9",
+  "path": "hallmark",
+  "path_key": "hallmark",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Nutlope/hallmark",
+    "subpath": "skills/hallmark",
+    "branch": null
+  }
+}
