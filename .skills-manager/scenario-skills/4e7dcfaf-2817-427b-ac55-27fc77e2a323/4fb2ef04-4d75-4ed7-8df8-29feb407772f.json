@@ -3,5 +3,25 @@
   "scenario_id": "4e7dcfaf-2817-427b-ac55-27fc77e2a323",
   "skill_id": "4fb2ef04-4d75-4ed7-8df8-29feb407772f",
   "sort_order": 1,
-  "tools": {}
+  "tools": {
+    "antigravity": true,
+    "claude_code": true,
+    "codex": true,
+    "command_code": true,
+    "continue": true,
+    "cursor": true,
+    "droid": true,
+    "gemini_cli": true,
+    "github_copilot": true,
+    "grok": true,
+    "hermes": true,
+    "kilo_code": true,
+    "kimi": true,
+    "omp_agent": true,
+    "opencode": true,
+    "pi": true,
+    "qoder": true,
+    "windsurf": true,
+    "zcode": true
+  }
 }
