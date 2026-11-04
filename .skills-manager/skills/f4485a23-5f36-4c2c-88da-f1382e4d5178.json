@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f4485a23-5f36-4c2c-88da-f1382e4d5178",
+  "path": "react-native-best-practices",
+  "path_key": "react-native-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "software-mansion-labs/skills/react-native-best-practices",
+    "subpath": "skills/react-native-best-practices",
+    "branch": null
+  }
+}

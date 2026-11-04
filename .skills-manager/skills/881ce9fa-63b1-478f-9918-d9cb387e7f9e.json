@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "881ce9fa-63b1-478f-9918-d9cb387e7f9e",
+  "path": "logo-animation",
+  "path_key": "logo-animation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "iart-ai/motion-design-skills/logo-animation",
+    "subpath": "skills/logo-animation",
+    "branch": null
+  }
+}
