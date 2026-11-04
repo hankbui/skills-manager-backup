@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "31d9251b-ef86-46d6-ae33-4af3660229e0",
+  "path": "writing-plans",
+  "path_key": "writing-plans",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/obra/superpowers",
+    "subpath": "skills/writing-plans",
+    "branch": null
+  }
+}
