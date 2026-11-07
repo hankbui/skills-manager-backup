@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3bdbb0bd-511e-4401-a663-d0b513252f4a",
+  "path": "away",
+  "path_key": "away",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/jakubkrehel/skills",
+    "subpath": "skills/away",
+    "branch": null
+  }
+}
