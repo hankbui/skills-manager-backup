@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f9100f5-eccb-4ac0-8243-84739fbb3f0a",
+  "path": "better-writing-2",
+  "path_key": "better-writing-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "jakubkrehel/skills/better-writing",
+    "subpath": "skills/better-writing",
+    "branch": null
+  }
+}

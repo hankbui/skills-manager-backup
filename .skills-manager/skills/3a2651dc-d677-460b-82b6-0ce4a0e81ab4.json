@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3a2651dc-d677-460b-82b6-0ce4a0e81ab4",
+  "path": "better-ui-2",
+  "path_key": "better-ui-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "jakubkrehel/skills/better-ui",
+    "subpath": "skills/better-ui",
+    "branch": null
+  }
+}

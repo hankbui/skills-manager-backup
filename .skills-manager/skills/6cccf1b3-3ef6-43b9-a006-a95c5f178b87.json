@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6cccf1b3-3ef6-43b9-a006-a95c5f178b87",
+  "path": "jakubkrehel-better-writing",
+  "path_key": "jakubkrehel-better-writing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "well-known",
+    "ref": "https://skills.sh/site/ui-skills.com/jakubkrehel-better-writing",
+    "subpath": null,
+    "branch": null
+  }
+}

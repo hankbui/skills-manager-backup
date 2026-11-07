@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bbc80d55-05ad-4856-b4e4-d99a280544f1",
+  "path": "jakubkrehel-better-layout",
+  "path_key": "jakubkrehel-better-layout",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "well-known",
+    "ref": "https://skills.sh/site/ui-skills.com/jakubkrehel-better-layout",
+    "subpath": null,
+    "branch": null
+  }
+}

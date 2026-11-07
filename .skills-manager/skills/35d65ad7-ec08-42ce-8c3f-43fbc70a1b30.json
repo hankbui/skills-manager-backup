@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "35d65ad7-ec08-42ce-8c3f-43fbc70a1b30",
+  "path": "better-typography-2",
+  "path_key": "better-typography-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "gsfsss/jakubkrehelskills/better-typography",
+    "subpath": "skills/better-typography",
+    "branch": null
+  }
+}

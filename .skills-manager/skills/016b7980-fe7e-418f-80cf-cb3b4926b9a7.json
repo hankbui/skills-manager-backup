@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "016b7980-fe7e-418f-80cf-cb3b4926b9a7",
+  "path": "jakubkrehel-better-colors",
+  "path_key": "jakubkrehel-better-colors",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "well-known",
+    "ref": "https://skills.sh/site/ui-skills.com/jakubkrehel-better-colors",
+    "subpath": null,
+    "branch": null
+  }
+}

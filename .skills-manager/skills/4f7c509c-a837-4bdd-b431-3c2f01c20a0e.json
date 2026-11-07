@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4f7c509c-a837-4bdd-b431-3c2f01c20a0e",
+  "path": "jakubkrehel-interface-review",
+  "path_key": "jakubkrehel-interface-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "well-known",
+    "ref": "https://skills.sh/site/ui-skills.com/jakubkrehel-interface-review",
+    "subpath": null,
+    "branch": null
+  }
+}

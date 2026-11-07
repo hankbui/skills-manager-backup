@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "94c79ee1-ad98-42d8-9a57-bfc24728cc7e",
+  "path": "jakubkrehel-oklch-skill",
+  "path_key": "jakubkrehel-oklch-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "well-known",
+    "ref": "https://skills.sh/site/ui-skills.com/jakubkrehel-oklch-skill",
+    "subpath": null,
+    "branch": null
+  }
+}

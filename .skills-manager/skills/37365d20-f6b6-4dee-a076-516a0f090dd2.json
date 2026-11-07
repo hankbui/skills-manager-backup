@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "37365d20-f6b6-4dee-a076-516a0f090dd2",
+  "path": "jakubkrehel-better-typography",
+  "path_key": "jakubkrehel-better-typography",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "well-known",
+    "ref": "https://skills.sh/site/ui-skills.com/jakubkrehel-better-typography",
+    "subpath": null,
+    "branch": null
+  }
+}

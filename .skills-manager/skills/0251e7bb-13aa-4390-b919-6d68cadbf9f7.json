@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0251e7bb-13aa-4390-b919-6d68cadbf9f7",
+  "path": "better-colors-2",
+  "path_key": "better-colors-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "gsfsss/jakubkrehelskills/better-colors",
+    "subpath": "skills/better-colors",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "908ea170-6d66-4cb8-8fd0-bc067afe9f06",
+  "path": "jakubkrehel-better-interface",
+  "path_key": "jakubkrehel-better-interface",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "well-known",
+    "ref": "https://skills.sh/site/ui-skills.com/jakubkrehel-better-interface",
+    "subpath": null,
+    "branch": null
+  }
+}

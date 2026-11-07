@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0b237912-7f24-499c-97f1-61cab19a7d89",
+  "path": "jakubkrehel-make-interfaces-feel-better",
+  "path_key": "jakubkrehel-make-interfaces-feel-better",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "well-known",
+    "ref": "https://skills.sh/site/ui-skills.com/jakubkrehel-make-interfaces-feel-better",
+    "subpath": null,
+    "branch": null
+  }
+}
