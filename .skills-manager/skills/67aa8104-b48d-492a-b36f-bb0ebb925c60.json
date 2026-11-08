@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "67aa8104-b48d-492a-b36f-bb0ebb925c60",
+  "path": "agent-sdk-create-agent",
+  "path_key": "agent-sdk-create-agent",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

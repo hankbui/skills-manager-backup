@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "29bc2296-12c9-4d69-a663-9cec314e0daf",
+  "path": "shell",
+  "path_key": "shell",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

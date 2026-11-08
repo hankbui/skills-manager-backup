@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6b70de3c-7b55-4e83-affe-70b64915711d",
+  "path": "statusline",
+  "path_key": "statusline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

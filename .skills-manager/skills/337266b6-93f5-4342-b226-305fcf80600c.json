@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "337266b6-93f5-4342-b226-305fcf80600c",
+  "path": "share",
+  "path_key": "share",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

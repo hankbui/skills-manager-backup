@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7047c265-cd4f-43a2-90c6-51c0067de5ae",
+  "path": "imessage",
+  "path_key": "imessage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
