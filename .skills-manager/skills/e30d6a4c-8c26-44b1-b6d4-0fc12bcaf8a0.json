@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e30d6a4c-8c26-44b1-b6d4-0fc12bcaf8a0",
+  "path": "ai-audiobook-narration",
+  "path_key": "ai-audiobook-narration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-audiobook-narration",
+    "branch": "main"
+  }
+}

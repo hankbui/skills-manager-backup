@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f2b7005b-4c61-4acd-886a-5adaa1099aee",
+  "path": "agent-framework-azure-ai-py",
+  "path_key": "agent-framework-azure-ai-py",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-framework-azure-ai-py",
+    "branch": "main"
+  }
+}

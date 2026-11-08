@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "07de04bf-bb74-410f-8340-c45b00c946b5",
+  "path": "20-andruia-niche-intelligence",
+  "path_key": "20-andruia-niche-intelligence",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/20-andruia-niche-intelligence",
+    "branch": "main"
+  }
+}

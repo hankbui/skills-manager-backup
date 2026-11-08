@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "315d2a64-a62d-4ddf-8a9d-16557d11283d",
+  "path": "accounting-software-selection",
+  "path_key": "accounting-software-selection",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/accounting-software-selection",
+    "branch": "main"
+  }
+}

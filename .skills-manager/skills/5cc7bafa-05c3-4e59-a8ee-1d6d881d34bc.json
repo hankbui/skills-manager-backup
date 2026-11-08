@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5cc7bafa-05c3-4e59-a8ee-1d6d881d34bc",
+  "path": "aas-discover",
+  "path_key": "aas-discover",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/aas-discover",
+    "branch": "main"
+  }
+}

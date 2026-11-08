@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f8b16e75-89c1-462c-b340-cab37cb0d76c",
+  "path": "agentmail",
+  "path_key": "agentmail",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agentmail",
+    "branch": "main"
+  }
+}

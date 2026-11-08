@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f5ed4b50-878f-45ad-9ba3-78488087b490",
+  "path": "accounting-audit-system-builder",
+  "path_key": "accounting-audit-system-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/accounting-audit-system-builder",
+    "branch": "main"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "07be0b03-3543-4440-b406-d87b74c57083",
+  "path": "agent-memory-discipline",
+  "path_key": "agent-memory-discipline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-memory-discipline",
+    "branch": "main"
+  }
+}

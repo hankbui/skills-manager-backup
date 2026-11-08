@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2b5ba071-b36d-4818-a14f-d9ca1ffb0172",
+  "path": "advogado-especialista",
+  "path_key": "advogado-especialista",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/advogado-especialista",
+    "branch": "main"
+  }
+}

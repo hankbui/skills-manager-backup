@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "79093e5f-47c4-459c-89a0-731e1c981e61",
+  "path": "ai-agent-development",
+  "path_key": "ai-agent-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-agent-development",
+    "branch": "main"
+  }
+}

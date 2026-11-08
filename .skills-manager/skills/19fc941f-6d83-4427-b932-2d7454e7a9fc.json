@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "19fc941f-6d83-4427-b932-2d7454e7a9fc",
+  "path": "ai-agent-evaluation-benchmarking",
+  "path_key": "ai-agent-evaluation-benchmarking",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-agent-evaluation-benchmarking",
+    "branch": "main"
+  }
+}

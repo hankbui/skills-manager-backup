@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7d800082-f230-40e6-8159-632c763fd9a7",
+  "path": "agentic-actions-auditor",
+  "path_key": "agentic-actions-auditor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agentic-actions-auditor",
+    "branch": "main"
+  }
+}

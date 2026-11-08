@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "782cbdeb-59bd-4b79-99d3-937c19f73dc3",
+  "path": "ab-test-setup",
+  "path_key": "ab-test-setup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ab-test-setup",
+    "branch": "main"
+  }
+}

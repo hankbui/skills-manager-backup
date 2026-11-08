@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a85073f0-dae5-475a-a39d-82660af8e22f",
+  "path": "ab-testing",
+  "path_key": "ab-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ab-testing",
+    "branch": "main"
+  }
+}

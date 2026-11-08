@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fa165b76-3d85-489e-a4ad-cdb595d2534e",
+  "path": "agent-memory-mcp",
+  "path_key": "agent-memory-mcp",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-memory-mcp",
+    "branch": "main"
+  }
+}

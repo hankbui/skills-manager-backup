@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "64667e57-7309-4965-af8c-146dd8432581",
+  "path": "agent-tool-builder",
+  "path_key": "agent-tool-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-tool-builder",
+    "branch": "main"
+  }
+}

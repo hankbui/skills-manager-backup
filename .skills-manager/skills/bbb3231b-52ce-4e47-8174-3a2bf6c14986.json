@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bbb3231b-52ce-4e47-8174-3a2bf6c14986",
+  "path": "analyzing-cyber-kill-chain",
+  "path_key": "analyzing-cyber-kill-chain",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "mukul975/anthropic-cybersecurity-skills/analyzing-cyber-kill-chain",
+    "subpath": "skills/analyzing-cyber-kill-chain",
+    "branch": null
+  }
+}

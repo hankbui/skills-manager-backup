@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3dd3813d-1c47-42c8-b9f6-3c801ac5a932",
+  "path": "accessibility-compliance-accessibility-audit",
+  "path_key": "accessibility-compliance-accessibility-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/accessibility-compliance-accessibility-audit",
+    "branch": "main"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ac78d78c-c95b-453d-a302-279faffdf7d0",
+  "path": "admin-access-register",
+  "path_key": "admin-access-register",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/admin-access-register",
+    "branch": "main"
+  }
+}

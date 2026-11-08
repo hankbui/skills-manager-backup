@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e594e32a-d547-4b73-b514-f08e3c188496",
+  "path": "agentic-verify",
+  "path_key": "agentic-verify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agentic-verify",
+    "branch": "main"
+  }
+}

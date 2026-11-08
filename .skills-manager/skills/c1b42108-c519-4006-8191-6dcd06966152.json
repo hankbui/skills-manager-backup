@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c1b42108-c519-4006-8191-6dcd06966152",
+  "path": "accesslint-audit",
+  "path_key": "accesslint-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/accesslint-audit",
+    "branch": "main"
+  }
+}

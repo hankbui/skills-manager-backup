@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d4f46be8-5022-4441-afce-31a222ec5f2e",
+  "path": "aas-compose-stack",
+  "path_key": "aas-compose-stack",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/aas-compose-stack",
+    "branch": "main"
+  }
+}

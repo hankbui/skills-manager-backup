@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "64af322b-353e-4b53-a632-7627fc44637c",
+  "path": "agent-memory-systems",
+  "path_key": "agent-memory-systems",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-memory-systems",
+    "branch": "main"
+  }
+}

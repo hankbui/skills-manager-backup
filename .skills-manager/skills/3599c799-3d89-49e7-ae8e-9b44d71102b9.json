@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3599c799-3d89-49e7-ae8e-9b44d71102b9",
+  "path": "cybersecurity-analyst",
+  "path_key": "cybersecurity-analyst",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "rysweet/amplihack/cybersecurity-analyst",
+    "subpath": "skills/cybersecurity-analyst",
+    "branch": null
+  }
+}

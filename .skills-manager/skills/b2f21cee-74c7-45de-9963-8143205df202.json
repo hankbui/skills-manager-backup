@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b2f21cee-74c7-45de-9963-8143205df202",
+  "path": "ad-creative",
+  "path_key": "ad-creative",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ad-creative",
+    "branch": "main"
+  }
+}

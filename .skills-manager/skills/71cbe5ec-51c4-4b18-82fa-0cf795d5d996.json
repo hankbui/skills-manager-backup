@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "71cbe5ec-51c4-4b18-82fa-0cf795d5d996",
+  "path": "active-directory-attacks",
+  "path_key": "active-directory-attacks",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/active-directory-attacks",
+    "branch": "main"
+  }
+}

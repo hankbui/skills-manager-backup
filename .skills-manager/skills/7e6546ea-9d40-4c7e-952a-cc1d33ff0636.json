@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7e6546ea-9d40-4c7e-952a-cc1d33ff0636",
+  "path": "ai-headshot-studio",
+  "path_key": "ai-headshot-studio",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-headshot-studio",
+    "branch": "main"
+  }
+}

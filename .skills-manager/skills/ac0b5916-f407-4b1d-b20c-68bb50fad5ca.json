@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ac0b5916-f407-4b1d-b20c-68bb50fad5ca",
+  "path": "accint-commitments",
+  "path_key": "accint-commitments",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/accint-commitments",
+    "branch": "main"
+  }
+}

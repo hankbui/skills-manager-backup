@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7a7f2054-2914-4a61-8813-797c71958971",
+  "path": "advanced-analytics-dashboard",
+  "path_key": "advanced-analytics-dashboard",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/advanced-analytics-dashboard",
+    "branch": "main"
+  }
+}

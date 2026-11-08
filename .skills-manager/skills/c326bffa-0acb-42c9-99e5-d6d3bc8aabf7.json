@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c326bffa-0acb-42c9-99e5-d6d3bc8aabf7",
+  "path": "aas-review-stack",
+  "path_key": "aas-review-stack",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/aas-review-stack",
+    "branch": "main"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b0fa270e-5a40-4534-bf18-ddcfc6ac2020",
+  "path": "adhx",
+  "path_key": "adhx",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/adhx",
+    "branch": "main"
+  }
+}

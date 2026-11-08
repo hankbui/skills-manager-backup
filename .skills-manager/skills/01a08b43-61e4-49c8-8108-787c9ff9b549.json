@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "01a08b43-61e4-49c8-8108-787c9ff9b549",
+  "path": "ai-content-detector",
+  "path_key": "ai-content-detector",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-content-detector",
+    "branch": "main"
+  }
+}

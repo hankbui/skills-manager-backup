@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d080be99-a189-4c3e-941b-eee2b5917b3b",
+  "path": "ai-content-outline-generator",
+  "path_key": "ai-content-outline-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-content-outline-generator",
+    "branch": "main"
+  }
+}

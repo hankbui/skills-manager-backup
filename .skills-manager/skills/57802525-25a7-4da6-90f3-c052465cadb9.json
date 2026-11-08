@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "57802525-25a7-4da6-90f3-c052465cadb9",
+  "path": "accesslint-diff",
+  "path_key": "accesslint-diff",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/accesslint-diff",
+    "branch": "main"
+  }
+}

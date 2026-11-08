@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af407c39-6053-4cfd-9ce4-a89baf816eab",
+  "path": "agent-reels",
+  "path_key": "agent-reels",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-reels",
+    "branch": "main"
+  }
+}

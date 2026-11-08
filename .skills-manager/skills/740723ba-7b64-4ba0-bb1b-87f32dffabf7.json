@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "740723ba-7b64-4ba0-bb1b-87f32dffabf7",
+  "path": "agent-harness-fault-injection",
+  "path_key": "agent-harness-fault-injection",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-harness-fault-injection",
+    "branch": "main"
+  }
+}

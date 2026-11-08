@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6234c4e7-c8e7-4821-8313-5f4e4943bc8f",
+  "path": "ai-keyword-explainer",
+  "path_key": "ai-keyword-explainer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-keyword-explainer",
+    "branch": "main"
+  }
+}

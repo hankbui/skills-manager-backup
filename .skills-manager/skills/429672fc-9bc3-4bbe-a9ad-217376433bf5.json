@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "429672fc-9bc3-4bbe-a9ad-217376433bf5",
+  "path": "ai-content-improver",
+  "path_key": "ai-content-improver",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-content-improver",
+    "branch": "main"
+  }
+}

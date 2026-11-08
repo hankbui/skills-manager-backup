@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0ad6db8a-dc62-463e-b88c-da02eaa0da81",
+  "path": "agents-generator",
+  "path_key": "agents-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agents-generator",
+    "branch": "main"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7d9a6efe-40fe-4088-bcb5-9e0f8545c087",
+  "path": "agent-orchestration-improve-agent",
+  "path_key": "agent-orchestration-improve-agent",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-orchestration-improve-agent",
+    "branch": "main"
+  }
+}

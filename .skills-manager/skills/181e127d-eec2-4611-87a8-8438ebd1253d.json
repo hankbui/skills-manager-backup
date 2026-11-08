@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "181e127d-eec2-4611-87a8-8438ebd1253d",
+  "path": "agy-powerline",
+  "path_key": "agy-powerline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agy-powerline",
+    "branch": "main"
+  }
+}

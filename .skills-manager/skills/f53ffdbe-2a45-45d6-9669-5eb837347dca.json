@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f53ffdbe-2a45-45d6-9669-5eb837347dca",
+  "path": "3d-web-experience",
+  "path_key": "3d-web-experience",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/3d-web-experience",
+    "branch": "main"
+  }
+}

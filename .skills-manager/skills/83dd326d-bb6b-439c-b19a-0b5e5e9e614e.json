@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "83dd326d-bb6b-439c-b19a-0b5e5e9e614e",
+  "path": "agent-evaluation-reporting",
+  "path_key": "agent-evaluation-reporting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-evaluation-reporting",
+    "branch": "main"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b3c14c48-da2c-409d-a238-5e0e6f6bf460",
+  "path": "agent-self-scheduling",
+  "path_key": "agent-self-scheduling",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-self-scheduling",
+    "branch": "main"
+  }
+}

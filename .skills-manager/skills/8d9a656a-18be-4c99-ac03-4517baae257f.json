@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8d9a656a-18be-4c99-ac03-4517baae257f",
+  "path": "360-feedback-system",
+  "path_key": "360-feedback-system",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/360-feedback-system",
+    "branch": "main"
+  }
+}

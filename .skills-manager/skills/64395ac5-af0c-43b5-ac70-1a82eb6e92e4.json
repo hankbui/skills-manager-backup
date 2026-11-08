@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "64395ac5-af0c-43b5-ac70-1a82eb6e92e4",
+  "path": "aegisops-ai",
+  "path_key": "aegisops-ai",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/aegisops-ai",
+    "branch": "main"
+  }
+}

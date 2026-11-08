@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f4efdf1a-7867-42d5-810c-e226ea247e25",
+  "path": "007",
+  "path_key": "007",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/007",
+    "branch": "main"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4c9ceaed-42fe-420f-a986-e5183706ac1e",
+  "path": "agent-qa-debug-fix",
+  "path_key": "agent-qa-debug-fix",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-qa-debug-fix",
+    "branch": "main"
+  }
+}

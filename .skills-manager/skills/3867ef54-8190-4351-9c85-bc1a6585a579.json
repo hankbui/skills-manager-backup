@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3867ef54-8190-4351-9c85-bc1a6585a579",
+  "path": "security-best-practices",
+  "path_key": "security-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "openai/skills/security-best-practices",
+    "subpath": "skills/.curated/security-best-practices",
+    "branch": null
+  }
+}

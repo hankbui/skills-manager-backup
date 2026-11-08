@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e5ad12a5-782b-40be-a8a7-7b5143cff95a",
+  "path": "agent-squad",
+  "path_key": "agent-squad",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-squad",
+    "branch": "main"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6603fbc1-65a2-4ed6-bfff-1860841afa4a",
+  "path": "ai-meta-tag-writer",
+  "path_key": "ai-meta-tag-writer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-meta-tag-writer",
+    "branch": "main"
+  }
+}

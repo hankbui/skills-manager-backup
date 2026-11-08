@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "05470be4-1e3a-4d5e-bdb2-99784a1f151c",
+  "path": "agentic-test-audit",
+  "path_key": "agentic-test-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agentic-test-audit",
+    "branch": "main"
+  }
+}

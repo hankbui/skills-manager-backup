@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1d0429b3-9321-4eba-ba35-c9ee8e4bdaf0",
+  "path": "ai-agents-architect",
+  "path_key": "ai-agents-architect",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-agents-architect",
+    "branch": "main"
+  }
+}

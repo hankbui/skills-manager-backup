@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea5520f6-0594-4754-91f2-92fd8cc1ee63",
+  "path": "access-matrix",
+  "path_key": "access-matrix",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/access-matrix",
+    "branch": "main"
+  }
+}

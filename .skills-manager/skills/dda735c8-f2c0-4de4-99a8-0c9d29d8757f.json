@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dda735c8-f2c0-4de4-99a8-0c9d29d8757f",
+  "path": "ai-competitor-title-rewriter",
+  "path_key": "ai-competitor-title-rewriter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-competitor-title-rewriter",
+    "branch": "main"
+  }
+}

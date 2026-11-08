@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6c8adc9b-613c-49b7-9065-b91651e80fc7",
+  "path": "accint-solve",
+  "path_key": "accint-solve",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/accint-solve",
+    "branch": "main"
+  }
+}

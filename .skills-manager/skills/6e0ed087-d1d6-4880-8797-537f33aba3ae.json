@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6e0ed087-d1d6-4880-8797-537f33aba3ae",
+  "path": "agent-evals",
+  "path_key": "agent-evals",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-evals",
+    "branch": "main"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9019d68b-e444-45ea-8303-8e3544696a84",
+  "path": "activecampaign-automation",
+  "path_key": "activecampaign-automation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/activecampaign-automation",
+    "branch": "main"
+  }
+}

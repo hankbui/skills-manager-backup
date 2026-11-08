@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9195fe62-cfb4-4247-a1ed-e417d1642a85",
+  "path": "acceptance-orchestrator",
+  "path_key": "acceptance-orchestrator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/acceptance-orchestrator",
+    "branch": "main"
+  }
+}

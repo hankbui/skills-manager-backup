@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bf7f2108-5b0c-4841-9431-c351433fd3a3",
+  "path": "find-security-vulnerabilities-in-code",
+  "path_key": "find-security-vulnerabilities-in-code",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "usestrix/strix/find-security-vulnerabilities-in-code",
+    "subpath": "skills/find-security-vulnerabilities-in-code",
+    "branch": null
+  }
+}

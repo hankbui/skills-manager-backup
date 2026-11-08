@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d37943c5-c91a-40eb-b073-ba3c3e2e7568",
+  "path": "field-journal-skill 2",
+  "path_key": "field-journal-skill 2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

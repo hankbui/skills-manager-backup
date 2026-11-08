@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6580f9d6-3c10-4f93-8354-950653f1bf78",
+  "path": "ai-image-generation-studio",
+  "path_key": "ai-image-generation-studio",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-image-generation-studio",
+    "branch": "main"
+  }
+}

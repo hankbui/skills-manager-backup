@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "29b78bd1-6c86-409f-88a8-3264c7398107",
+  "path": "ai-md",
+  "path_key": "ai-md",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-md",
+    "branch": "main"
+  }
+}

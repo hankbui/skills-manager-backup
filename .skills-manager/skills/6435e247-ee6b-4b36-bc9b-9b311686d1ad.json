@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6435e247-ee6b-4b36-bc9b-9b311686d1ad",
+  "path": "security-auditor",
+  "path_key": "security-auditor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "sickn33/agentic-awesome-skills/security-auditor",
+    "subpath": "skills/security-auditor",
+    "branch": null
+  }
+}

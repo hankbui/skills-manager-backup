@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0162fd65-efb1-4d48-95ca-585f9f65fc7d",
+  "path": "agent-orchestration-multi-agent-optimize",
+  "path_key": "agent-orchestration-multi-agent-optimize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-orchestration-multi-agent-optimize",
+    "branch": "main"
+  }
+}

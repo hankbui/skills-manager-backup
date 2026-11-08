@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ec3b667a-6b7f-4df4-8f4b-bb39fca54d9e",
+  "path": "agent-observability",
+  "path_key": "agent-observability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-observability",
+    "branch": "main"
+  }
+}

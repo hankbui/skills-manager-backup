@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "53c777e8-abdf-4f7c-b8ab-dd2166848cfb",
+  "path": "ai-code-generation-guardrails",
+  "path_key": "ai-code-generation-guardrails",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-code-generation-guardrails",
+    "branch": "main"
+  }
+}

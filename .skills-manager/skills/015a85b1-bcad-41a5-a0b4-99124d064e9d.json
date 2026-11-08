@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "015a85b1-bcad-41a5-a0b4-99124d064e9d",
+  "path": "ai-faq-creator",
+  "path_key": "ai-faq-creator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-faq-creator",
+    "branch": "main"
+  }
+}

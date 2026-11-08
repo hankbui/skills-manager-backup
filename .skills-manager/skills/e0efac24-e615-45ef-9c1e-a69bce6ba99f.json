@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e0efac24-e615-45ef-9c1e-a69bce6ba99f",
+  "path": "ai-dev-jobs-mcp",
+  "path_key": "ai-dev-jobs-mcp",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-dev-jobs-mcp",
+    "branch": "main"
+  }
+}

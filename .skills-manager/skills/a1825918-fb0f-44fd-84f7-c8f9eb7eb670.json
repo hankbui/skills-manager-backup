@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a1825918-fb0f-44fd-84f7-c8f9eb7eb670",
+  "path": "agentphone",
+  "path_key": "agentphone",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agentphone",
+    "branch": "main"
+  }
+}

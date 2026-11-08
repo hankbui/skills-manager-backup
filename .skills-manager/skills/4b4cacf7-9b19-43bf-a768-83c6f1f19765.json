@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4b4cacf7-9b19-43bf-a768-83c6f1f19765",
+  "path": "accint-frames",
+  "path_key": "accint-frames",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/accint-frames",
+    "branch": "main"
+  }
+}

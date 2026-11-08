@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "817146e8-e49c-41cd-89f1-a90b4eb0c615",
+  "path": "advanced-evaluation",
+  "path_key": "advanced-evaluation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/advanced-evaluation",
+    "branch": "main"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ac03254b-ae67-4ae2-9d03-80f03a20e030",
+  "path": "add-app-clip",
+  "path_key": "add-app-clip",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/add-app-clip",
+    "branch": "main"
+  }
+}

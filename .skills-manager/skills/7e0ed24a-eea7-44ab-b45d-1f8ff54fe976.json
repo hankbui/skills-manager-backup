@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7e0ed24a-eea7-44ab-b45d-1f8ff54fe976",
+  "path": "application-security-testing",
+  "path_key": "application-security-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "usestrix/strix/application-security-testing",
+    "subpath": "skills/application-security-testing",
+    "branch": null
+  }
+}

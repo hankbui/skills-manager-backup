@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cf575bf3-5477-40dc-9488-983baaa57ce6",
+  "path": "00-andruia-consultant",
+  "path_key": "00-andruia-consultant",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/00-andruia-consultant",
+    "branch": "main"
+  }
+}

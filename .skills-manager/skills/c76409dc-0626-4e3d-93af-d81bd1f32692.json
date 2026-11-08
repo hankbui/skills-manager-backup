@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c76409dc-0626-4e3d-93af-d81bd1f32692",
+  "path": "ad-campaign-analyzer",
+  "path_key": "ad-campaign-analyzer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ad-campaign-analyzer",
+    "branch": "main"
+  }
+}

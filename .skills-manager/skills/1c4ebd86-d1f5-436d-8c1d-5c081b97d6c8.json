@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1c4ebd86-d1f5-436d-8c1d-5c081b97d6c8",
+  "path": "ai-analyzer",
+  "path_key": "ai-analyzer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-analyzer",
+    "branch": "main"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8a176143-556f-475f-955b-7e44fe20397b",
+  "path": "agents-v2-py",
+  "path_key": "agents-v2-py",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agents-v2-py",
+    "branch": "main"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "19d6c433-405f-4c70-b461-ab4be5702b0c",
+  "path": "ai-blog-intro-writer",
+  "path_key": "ai-blog-intro-writer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-blog-intro-writer",
+    "branch": "main"
+  }
+}

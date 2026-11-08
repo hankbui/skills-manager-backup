@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "30dfaf66-daa5-47df-98d8-42bf29940fe3",
+  "path": "ai-agent-tool-routing",
+  "path_key": "ai-agent-tool-routing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-agent-tool-routing",
+    "branch": "main"
+  }
+}

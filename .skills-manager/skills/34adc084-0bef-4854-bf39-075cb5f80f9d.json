@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "34adc084-0bef-4854-bf39-075cb5f80f9d",
+  "path": "ai-agent-security",
+  "path_key": "ai-agent-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-agent-security",
+    "branch": "main"
+  }
+}

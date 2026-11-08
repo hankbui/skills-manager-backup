@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c5c54a35-3efe-4f17-b70f-9903fda777dc",
+  "path": "agentflow",
+  "path_key": "agentflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agentflow",
+    "branch": "main"
+  }
+}

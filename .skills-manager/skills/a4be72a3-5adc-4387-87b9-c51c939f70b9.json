@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a4be72a3-5adc-4387-87b9-c51c939f70b9",
+  "path": "agent-qa-result-triage",
+  "path_key": "agent-qa-result-triage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-qa-result-triage",
+    "branch": "main"
+  }
+}

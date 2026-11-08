@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b6882f14-be95-4c9e-aed8-98b094f413ad",
+  "path": "agenttrace-session-audit",
+  "path_key": "agenttrace-session-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agenttrace-session-audit",
+    "branch": "main"
+  }
+}

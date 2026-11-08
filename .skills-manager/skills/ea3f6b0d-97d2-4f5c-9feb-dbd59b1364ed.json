@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea3f6b0d-97d2-4f5c-9feb-dbd59b1364ed",
+  "path": "ai-engineering-toolkit",
+  "path_key": "ai-engineering-toolkit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-engineering-toolkit",
+    "branch": "main"
+  }
+}

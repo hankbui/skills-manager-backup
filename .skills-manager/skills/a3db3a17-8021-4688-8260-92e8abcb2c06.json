@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a3db3a17-8021-4688-8260-92e8abcb2c06",
+  "path": "accesslint-scan",
+  "path_key": "accesslint-scan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/accesslint-scan",
+    "branch": "main"
+  }
+}

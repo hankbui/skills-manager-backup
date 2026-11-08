@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1103bc23-33b1-4cf5-9a97-93e15f0d3f3a",
+  "path": "agy-delegate",
+  "path_key": "agy-delegate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agy-delegate",
+    "branch": "main"
+  }
+}

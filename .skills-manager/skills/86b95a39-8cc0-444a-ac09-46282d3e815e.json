@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "86b95a39-8cc0-444a-ac09-46282d3e815e",
+  "path": "10-andruia-skill-smith",
+  "path_key": "10-andruia-skill-smith",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/10-andruia-skill-smith",
+    "branch": "main"
+  }
+}

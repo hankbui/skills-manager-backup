@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1d717420-b7a1-4b7a-8a83-c3faf3e0066c",
+  "path": "advogado-criminal",
+  "path_key": "advogado-criminal",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/advogado-criminal",
+    "branch": "main"
+  }
+}

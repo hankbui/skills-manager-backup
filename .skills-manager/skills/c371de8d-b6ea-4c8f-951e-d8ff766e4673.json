@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c371de8d-b6ea-4c8f-951e-d8ff766e4673",
+  "path": "agentfolio",
+  "path_key": "agentfolio",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agentfolio",
+    "branch": "main"
+  }
+}

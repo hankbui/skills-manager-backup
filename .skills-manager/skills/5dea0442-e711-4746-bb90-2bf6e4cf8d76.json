@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5dea0442-e711-4746-bb90-2bf6e4cf8d76",
+  "path": "ai-inference-service-mesh",
+  "path_key": "ai-inference-service-mesh",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-inference-service-mesh",
+    "branch": "main"
+  }
+}

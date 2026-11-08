@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4cd3b119-7ac4-4f28-88c4-de216fd17811",
+  "path": "address-github-comments",
+  "path_key": "address-github-comments",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/address-github-comments",
+    "branch": "main"
+  }
+}

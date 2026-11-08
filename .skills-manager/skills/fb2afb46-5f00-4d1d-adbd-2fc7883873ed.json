@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fb2afb46-5f00-4d1d-adbd-2fc7883873ed",
+  "path": "access-review",
+  "path_key": "access-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/access-review",
+    "branch": "main"
+  }
+}

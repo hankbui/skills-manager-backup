@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2304e44c-ec43-4543-89bd-b25f55c9e399",
+  "path": "agent-orchestrator",
+  "path_key": "agent-orchestrator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/agent-orchestrator",
+    "branch": "main"
+  }
+}

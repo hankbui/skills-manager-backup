@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "859c7479-3289-4edc-b475-0fd0cffab916",
+  "path": "ai-image-realism",
+  "path_key": "ai-image-realism",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-image-realism",
+    "branch": "main"
+  }
+}

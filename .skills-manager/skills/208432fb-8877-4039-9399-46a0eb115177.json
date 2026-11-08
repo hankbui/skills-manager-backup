@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "208432fb-8877-4039-9399-46a0eb115177",
+  "path": "ai-logo-maker",
+  "path_key": "ai-logo-maker",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/sickn33/agentic-awesome-skills/tree/main",
+    "subpath": "skills/ai-logo-maker",
+    "branch": "main"
+  }
+}
