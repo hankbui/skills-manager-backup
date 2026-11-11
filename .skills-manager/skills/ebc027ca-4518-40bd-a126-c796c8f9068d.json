@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ebc027ca-4518-40bd-a126-c796c8f9068d",
+  "path": "Full App Audit",
+  "path_key": "full app audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

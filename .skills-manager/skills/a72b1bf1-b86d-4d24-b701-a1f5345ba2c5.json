@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a72b1bf1-b86d-4d24-b701-a1f5345ba2c5",
+  "path": "Zero-Trust Security Audit",
+  "path_key": "zero-trust security audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

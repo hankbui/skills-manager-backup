@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ca040426-30b2-4349-8630-3ae1ebbdcfa1",
+  "path": "api-security-best-practices",
+  "path_key": "api-security-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
