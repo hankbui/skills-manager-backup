@@ -4,8 +4,3 @@ Thumbs.db
 .skills-manager.lock
 __pycache__/
 *.pyc
-
-# skills-manager: oversized skills excluded from backup (auto-managed)
-/deep-research-2/
-/.skills-manager/skills/83cd8fea-239f-4e94-8c35-39e6f5889725.json
-# skills-manager: end oversized skills
