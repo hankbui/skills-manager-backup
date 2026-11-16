@@ -4,6 +4,7 @@
   "skill_id": "1c77b808-ebd7-4598-8cc2-a558a11fd54d",
   "sort_order": 0,
   "tools": {
+    "amp": true,
     "antigravity": true,
     "claude_code": false,
     "codex": true,
@@ -13,6 +14,7 @@
     "droid": true,
     "gemini_cli": true,
     "github_copilot": true,
+    "goose": true,
     "grok": true,
     "hermes": true,
     "kilo_code": true,
