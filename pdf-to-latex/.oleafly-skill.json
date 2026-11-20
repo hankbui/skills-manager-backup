@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "pdf-to-latex",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "b3f1d33473b14531e384770413adbb5473a55e3723e5ec834960d4ea4e784b4c",
+  "license": "MIT",
+  "tier": "native",
+  "phase": "tooling"
+}

@@ -4,3 +4,9 @@ Thumbs.db
 .skills-manager.lock
 __pycache__/
 *.pyc
+
+# Oversized local skill payloads excluded from GitHub backup.
+# Keep the reusable skill definition itself.
+/deep-research-2/*
+!/deep-research-2/SKILL.md
+/.skills-manager/skills/83cd8fea-239f-4e94-8c35-39e6f5889725.json

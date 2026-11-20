@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "template-generate",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "03a258642f61c0194fa247fc47de5173c227a6938291a058904b9c444fe042ca",
+  "license": "MIT",
+  "tier": "native",
+  "phase": "tooling"
+}

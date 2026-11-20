@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "oleafly-manuscript-scaffold",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "f52cc418a93db95d37f5ada4adef0ee45deb4fcdcd72f628b8f81e98b6bbef99",
+  "license": "MIT",
+  "tier": "native",
+  "phase": "authoring"
+}

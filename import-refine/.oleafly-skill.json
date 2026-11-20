@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "import-refine",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "35edfa8ecda8cc885017191ea33278543bf992f7f6f9f70d3d1bbfe021489d06",
+  "license": "MIT",
+  "tier": "native",
+  "phase": "tooling"
+}

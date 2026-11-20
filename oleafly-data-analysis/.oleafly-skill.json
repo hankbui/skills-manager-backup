@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "oleafly-data-analysis",
+  "source": "bundled",
+  "pack": "research-core",
+  "packVersion": "2026.09.04.fa2d6752",
+  "treeSha256": "3f907efed5639a9c036cbcb09febe3499ac6f15c6628f1a748bb6039bec68db7",
+  "license": "MIT",
+  "tier": "native",
+  "phase": "authoring"
+}
